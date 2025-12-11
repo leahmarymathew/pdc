@@ -177,12 +177,5 @@ If you use this implementation in academic work, please cite this GitHub reposit
 You may also generate a DOI via Zenodo for reproducible citation.
 
 ---
-
-```
-
----
-
-
-
-Just tell me!
+tell me!
 ```
