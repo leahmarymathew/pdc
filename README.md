@@ -1,6 +1,4 @@
----
 
-# **`README.md` **
 
 ```md
 # High-Performance Parallel Computing Implementation (OpenMP & MPI)
