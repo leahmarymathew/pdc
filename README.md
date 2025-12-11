@@ -1,6 +1,6 @@
 
 
-```md
+
 # High-Performance Parallel Computing Implementation (OpenMP & MPI)
 
 This repository contains high-performance parallel implementations of **Gaussian Elimination** and **Odd–Even Transposition Sort** using both **OpenMP** (shared-memory multiprocessing) and **MPI** (distributed-memory message passing).  
