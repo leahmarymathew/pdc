@@ -1,8 +1,6 @@
-Here is the **full, clean, copy-paste-ready `README.md`** — no placeholders, no instructions, fully polished and professional.
-
 ---
 
-# **`README.md` (copy-paste directly)**
+# **`README.md` **
 
 ```md
 # High-Performance Parallel Computing Implementation (OpenMP & MPI)
