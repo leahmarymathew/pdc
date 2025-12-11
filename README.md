@@ -184,14 +184,4 @@ You may also generate a DOI via Zenodo for reproducible citation.
 
 ```
 
----
 
-If you want, I can also generate:
-
-✅ A complete starter C++ template for all algorithms  
-✅ A PDF-style report summarizing your results  
-✅ A GitHub project description + tags  
-✅ A full Zenodo-ready citation block  
-
-Just tell me!
-```
